@@ -1,16 +1,38 @@
-### Hi there 👋
+# Olá, eu sou o Victor Soeiro! 👋
 
-<!--
-**victor-soeiro/victor-soeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou formado em Física pela UERJ e atuo como desenvolvedor RPA na [@Smarthis](https://www.smarthis.com.br) desde 2022. Tenho paixão por automação, engenharia de software e soluções que integram desempenho com clareza e organização.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Principais Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+
+## 🚀 Projetos em Destaque
+
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=victor-soeiro&show_icons=true&theme=dracula&locale=pt-br)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-soeiro&layout=compact&langs_count=7&theme=dracula&locale=pt-br)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-soeiro)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.soeiro.araujo@gmail.com)
+
+---
+
+⭐️ Dê uma estrelinha nos meus projetos se gostar do conteúdo!
+
+"Codar é transformar café ☕️ em software 💻"
